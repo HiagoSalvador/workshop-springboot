@@ -28,12 +28,6 @@ Pré-requisitos: Java 17
 ```bash
 # clonar repositório
 git clone https://github.com/HiagoSalvador/workshop-springboot.git
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto  
-./mvnw spring-boot:run
 ```
 
 
